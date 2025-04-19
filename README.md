@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sufyan Abdullah
 
-<!--
-**Sufyan-00/Sufyan-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Software Engineering student at COMSATS University Islamabad (Graduating Jan 2026)  
+💻 Passionate about building web applications and solving real-world problems  
+🌱 Currently exploring Laravel and MongoDB  
+📫 Reach me at sufyanabdullah08@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C++, JavaScript, PHP, Python
+- **Web Technologies:** HTML, CSS
+- **Frameworks:** Laravel
+- **Databases:** MySQL, SQLite, MongoDB
+- **Tools:** VS Code, PyCharm, Visual Studio 2022
+
+## 📌 Pinned Projects
+
+- [Event Management System](https://github.com/Sufyan-00/laravel_project)
+- [Store Management App](https://github.com/M-Shazim/PulseMart)
+- [Portfolio Website]
