@@ -15,7 +15,7 @@ Frontend:        HTML, CSS, Bootstrap
 Backend:         Laravel, .NET Core MVC
 Mobile:          Flutter
 Databases:       MySQL, SQLite, MongoDB
-Tools:           Git, VS Code, Visual Studio, PyCharm
+Tools:           Git, VS Code, Visual Studio, Android Studio, PyCharm
 ```
 
 ## Featured Projects
