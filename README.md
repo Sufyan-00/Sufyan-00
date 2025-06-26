@@ -3,7 +3,7 @@
 ## About Me
 - Final-year Software Engineering student at COMSATS University Islamabad (Graduating Jan 2026)
 - Full-stack web developer passionate about building elegant solutions to real-world problems
-- Currently exploring Laravel, PostgreSQL, and RESTful API development
+- Currently exploring RESTful API development and MERN Stack
 - Open to collaboration and entry-level opportunities in web development
 - Email: sufyanabdullah@duck.com
 
