@@ -11,8 +11,8 @@
 
 ```
 Languages:       JavaScript, PHP, Python, C++, C#
-Frontend:        HTML, CSS, Bootstrap
-Backend:         Laravel, .NET Core MVC
+Frontend:        HTML, CSS, Bootstrap, React.js
+Backend:         Laravel, .NET Core MVC, Node.js, Express.js
 Mobile:          Flutter
 Databases:       MySQL, SQLite, MongoDB
 Tools:           Git, VS Code, Visual Studio, Android Studio, PyCharm
@@ -25,6 +25,8 @@ Tools:           Git, VS Code, Visual Studio, Android Studio, PyCharm
 ### [Store Management App](https://github.com/M-Shazim/PulseMart)
 
 ### [Campus Life Assistant App](https://github.com/Sufyan-00/Campus_Life_Assistant_App)
+
+### [Task Manager](https://github.com/Sufyan-00/Task-Manager)
 
 ### [Portfolio Website] - Coming Soon!
 
